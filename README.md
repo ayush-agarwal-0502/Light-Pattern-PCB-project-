@@ -1,4 +1,4 @@
-# light-pattern-pcb-project-
+# Light-Pattern-PCB-Project-
 
 Fascinating patterns of glowing LED lights made by me on proteus and eagle cad .
 
