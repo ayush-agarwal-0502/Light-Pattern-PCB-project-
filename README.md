@@ -8,6 +8,8 @@ Softwares involved - Proteus , Eagle CAD
 
 Digital electronics concepts involved - Jhonson counter with removed feedback , clock frequency divider , demux, astable multivibrator, monostable multivibrator using 555 timer 
 
+Please see the video demostration of the lighting system , the file is uploaded in this repository .
+
 # Proteus image 
 ![proteus 2](https://user-images.githubusercontent.com/86561124/144203515-f9e11610-f4a0-4038-a27c-ecd4e5994eb1.JPG)
 
