@@ -1,4 +1,7 @@
 # Additional Ideas for creating light patterns 
+
+If someone is willing to implement my ideas on Proteus / Eagle CAD , then you are free to add contributions here :) .
+
 ## Idea 1
 ![image](https://user-images.githubusercontent.com/86561124/144742574-86aa5564-df19-4c83-beac-10a4062d4cb0.png)
 
