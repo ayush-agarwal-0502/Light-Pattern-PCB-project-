@@ -10,6 +10,8 @@ Digital electronics concepts involved - Jhonson counter with removed feedback , 
 
 Please see the video demostration of the lighting system , the file is uploaded in this repository .
 
+Also see ADDITIONAL ideas file for other circuits for light patterns which I invented but haven't implemented yet .
+
 # Proteus image 
 ![proteus 2](https://user-images.githubusercontent.com/86561124/144203515-f9e11610-f4a0-4038-a27c-ecd4e5994eb1.JPG)
 
