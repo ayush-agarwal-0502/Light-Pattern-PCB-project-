@@ -6,3 +6,5 @@ This circuit has 8 possible modes of operation . I have used a frequency halver 
 
 ## Idea 2
 ![image](https://user-images.githubusercontent.com/86561124/144742596-163ecadc-ff4d-4032-ba83-e10a70e828d0.png)
+
+By using band elimination filters parallel to every led and using a variable frequency AC source , we can make beautiful patterns of LED too . Whenever a particular frequency of signal is passed throught the chain, only the LED with the Band Elimination Filter corresponding to the particular frequency will light up , thus by varying the frequencies rapidly or even inputting a signal which is a mixture of different frequencies , we can get different patterns . Furthermore , this can be turned into a cheap commercial device to quickly get the range of the frequency in which the input signal lies , thus being a great invention .
